@@ -1,4 +1,4 @@
-![](img\TheSadnessOfMonkeys.jpg)
+![](https://github.com/Nikolay273/Publishing-the-project-on-GitHub-pages/blob/main/img/TheSadnessOfMonkeys.jpg)
 
 # Suffering from monkey dealers. The Parable
 
